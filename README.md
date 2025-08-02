@@ -10,12 +10,21 @@ A core Python project that allows users to manage their personal contacts using 
 - Delete contacts with confirmation
 - Sort contacts by name (A-Z)
 
+## 🧠 Smart Features
+- 🔍 Auto-fill Suggestions when searching contacts
+- ⚠️ Missing Info Alerts on incomplete entries
+- 📊 Contact Priority Ranking based on frequency
+- 🤖 Name Correction Suggestions using string matching
+- 🧬 Duplicate Detection & optional merging
+
 ## 🛠️ Built Using:
 - Python (Core)
 - Lists, Dictionaries
 - Loops & Conditional Logic
 - Functions for modularity
-
+- Python 3
+- Standard Libraries: difflib
+  
 ## 📂 File Structure:
 - `contact_book.py` : main Python script
 - `README.md` : this file
